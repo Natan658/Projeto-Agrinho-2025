@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    font-family:'Montserrat', sans-serif;
+    background-color: #eee9e1;
+    color: #798252;
+}
+
+header h1 {
+    background-color: #331F19;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 900;
+        
+    margin: 0;
+    padding: 0;
+    border-width: 0;
+    
+}   
+
+header p{
+    background-color: #331F19;
+    font-weight: 500;
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 0;
+    padding: 0;
+    border-width: 0;
+    padding-bottom: 0.5rem;
+
+}
+
+header ol{
+    box-shadow: 0 2px 5px #331F19;
+    list-style-position: inside;
+    list-style-type: decimal;
+    margin-left: 0.5rem;
+    padding: 1.5rem;
+    padding-top: 10px;
+    width: fit-content;
+    display:block;
+}
+
+header ol li{
+    font-size: 1.1rem;
+    padding: 0.1rem;
+}
+
+header h2{
+    font-size: 2rem;
+    padding: 1rem;
+    padding-bottom: 0;
+    
+}
+
+main h2a{
+    font-weight: 700;
+    color: #331F19; 
+    font-size: 2rem;
+    padding: 1rem;
+    padding-top: 1rem;
+}    
+
+main sectiona p{
+    text-indent: 0.2rem;
+    font-weight: 500;
+    padding-bottom: 1.5rem;
+    font-size: 1.2rem;
+    padding-left: 0.3rem;
+}
+
+main sectiona img{
+    padding-left: 0.3rem;
+     border-radius: 8px;
+    box-shadow: 0 2px 10px #331F19;
+}
+
+main sectiona h6{
+    padding-bottom: 1.5rem;
+    padding-left: 0.3rem;
+
+}
+
+#sectionb h2b{
+    font-weight: 700;
+    color: #331F19;
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+#sectionb p{
+    text-indent: 0.2rem;
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding-right: 0.3rem;
+    margin-left: 0.3rem;
+    padding-bottom: 1.5rem;
+}
+
+#sectionb img{
+    padding-left: 0.3rem;
+    box-shadow: 0px 2px 10px #331F19;
+    border-radius: 8px;
+}
+
+#sectionb h6{
+    padding-bottom: 1.5rem;
+    padding-left: 0.3rem;
+}
+
+#sectionc h2{
+    font-weight: 700;
+    color: #331F19;
+    padding: 1rem;
+    font-size: 2rem;
+    padding-bottom: 0;
+}
+
+#sectionc p{
+    text-indent: 0.2rem;
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding-left: 0.3rem;
+    padding-bottom: 1.5rem;
+}
+
+#sectionc img{
+    padding-left: 0.3rem;
+    box-shadow: 0 2px 10px #331F19;
+    border-radius: 8px;
+}
+
+#sectionc h6{
+    padding-bottom: 1.5rem;
+    padding-left: 0.3rem;
+}
+
+#sectiond h2{
+    font-weight: 700;
+     color: #331F19;
+    padding: 1rem;
+    font-size: 2rem;
+    padding-bottom: 0;
+}
+
+#sectiond p{
+    text-indent: 0.2rem;
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding-bottom: 1.5rem;
+    padding-left: 0.3rem;
+    
+}
+
+#sectiond img{
+    padding-left: 0.3rem;
+    box-shadow: 0 2px 10px #331F19;
+    border-radius: 8px;
+}
+
+#sectiond h6{
+    padding-bottom: 1.5rem;
+    padding-left: 0.3rem;
+}
+
+footer p{
+    color: black;
+    padding-left: 0.3rem;
+    padding-bottom: 0.3rem;
+}
